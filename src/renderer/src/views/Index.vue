@@ -3,6 +3,7 @@
 </script>
 
 <template>
+  qwq
 </template>
 
 <style lang="scss" scoped>
